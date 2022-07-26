@@ -1,0 +1,8 @@
+name: UBVote
+version: '${project.version}'
+main: rama.ubv.ubvote.UBVote
+api-version: 1.17
+authors: [ ImRama ]
+description: Gamemodes voting for UnBloque
+commands:
+  ubvote:
